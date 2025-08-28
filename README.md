@@ -4,14 +4,14 @@ This project demonstrates my proficiency in SQL for data analysis, using a relat
 
 This analysis provides a comprehensive view of the business through the following areas:
 
-Sales and Revenue Performance:
+a)Sales and Revenue Performance:
 
 
 1)Total Revenue: Calculated the total revenue to understand overall business health.
 
 2)Monthly Trends: Analyzed total sales per month to identify seasonal patterns and performance over time.
 
-Customer Insights
+b)Customer Insights
 
 
 1)Top Customers: Identified the top 10 customers by total spend to inform customer retention and loyalty programs.
@@ -20,7 +20,7 @@ Customer Insights
 
 3)Average Order Value: Calculated the average order value per customer to understand purchasing habits.
 
-Product & Store Analysis
+c)Product & Store Analysis
 
 
 1)Top-Selling Products: Found the top 5 products by revenue to inform inventory and marketing strategies.
